@@ -9,7 +9,3 @@ router.get('/location',ctrllocations.locationinfo);
 router.get('/location/review/new',ctrllocations.addreview);
 router.get('/about',cntrlmain.about);
 module.exports=router;
-
-
-
-
